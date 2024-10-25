@@ -1,5 +1,5 @@
 export interface FleetState {
-  vehicles: any[] | null;
+  vehicles: [] | null;
 }
 
 export type FleetAction = { type: string; payload?: any };

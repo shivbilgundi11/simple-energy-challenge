@@ -11,10 +11,10 @@ module.exports = {
   parser: '@typescript-eslint/parser',
   plugins: ['simple-import-sort', 'react-refresh'],
   rules: {
-    'react/prop-types': 'off',
-    'react-refresh/only-export-components': 'off',
-    'react/no-unescaped-entities': 'off',
-    'no-unused-vars': 'warn',
-    'simple-import-sort/imports': 'error',
+    // 'react/prop-types': 'off',
+    // 'react-refresh/only-export-components': 'off',
+    // 'react/no-unescaped-entities': 'off',
+    // 'no-unused-vars': 'warn',
+    // 'simple-import-sort/imports': 'error',
   },
 };
